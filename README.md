@@ -1,5 +1,8 @@
 # SX1255 Dev Hat
 
+A Simple Raspberry Pi Zero shield with the SX1255 RF transceiver chip.  
+`v0.1` based on [M17](https://github.com/M17-Project/SX1255_HAT-hw/blob/main/README.md)'s design, and Semtech's application schematic in the [SX1255 Datasheet](https://www.semtech.com/uploads/documents/sx1255.pdf).
+
 ## License & Acknowledgements
 
 Made with ❤️, lots of ☕️, and lack of 🛌  
